@@ -17,6 +17,8 @@ render ~0.02 (OK)
 
 ---
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tuchk4/onBlurExample.svg)](https://greenkeeper.io/)
+
 Render 1000 buttons with onBlur:
 
 * Reload
